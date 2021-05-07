@@ -1,0 +1,39 @@
+I"�<p>WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站</p>
+
+<h1 id="五实验报告提纲">五、实验报告提纲</h1>
+
+<h1 id="web应用软件开发实训---第二次作业---开发一个静态网站">WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站</h1>
+
+<p>网站的公网网址，网站源代码Github仓库网址。</p>
+
+<h2 id="一网站目录结构">一、网站目录结构</h2>
+<p>用“tree”命令输出网站目录结构并截图
+<img src="https://i.loli.net/2021/05/08/42h8yQxdOSgnVrf.png" alt="tree.png" />
+<img src="https://i.loli.net/2021/05/08/zr4S6INhFlmADxg.png" alt="tree1.png" /></p>
+<h2 id="二网站截图">二、网站截图</h2>
+<p>截图内容：</p>
+<ul>
+  <li>首页</li>
+  <li>Blog列表页</li>
+  <li>两篇Post（至少有一篇是Markdown练习）</li>
+  <li>Staff列表页</li>
+  <li>一个Staff列表页</li>
+  <li>一个作者简介页面</li>
+  <li>一个About页面</li>
+</ul>
+
+<h2 id="三实验过程">三、实验过程</h2>
+<ol>
+  <li>在WSL上安装Jekyll。</li>
+  <li>在Windows 10上安装VSCode以及Remote插件，并通过Remote插件连接WSL。</li>
+  <li>在VSCode中，按照讲义里“Jekyll官方文档”的“Step by Step Tutorial”的内容，完成第1-9步。</li>
+  <li>通过“jekyll serve”运行调试网站，并将Markdown练习内容依次以帖子形式发布到网站上。</li>
+  <li>在WSL上安装nginx。</li>
+  <li>通过“jekyll build”编译网站，并将编译得到的 <code class="language-plaintext highlighter-rouge">_site</code> 目录部署到 nginx上，并检查内容是否正确。</li>
+  <li>将网站源代码push到Github.com网站，并通过Github.io网站检查Jekyll代码是否被正确编译。
+    <h2 id="四总结">四、总结</h2>
+    <p>（重点写过你在程中遇到的问题，你是如何解决这个问题的，你对这个问题的理解；以及本次实验的心得体会）
+```</p>
+  </li>
+</ol>
+:ET
