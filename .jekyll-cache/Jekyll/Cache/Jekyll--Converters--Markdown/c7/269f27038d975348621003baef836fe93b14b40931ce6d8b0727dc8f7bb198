@@ -1,5 +1,4 @@
-I"c
-<p>WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站</p>
+I"<p>WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站</p>
 
 <h1 id="web应用软件开发实训---第二次作业---开发一个静态网站">WEB应用软件开发实训 - 第二次作业 - 开发一个静态网站</h1>
 
@@ -40,8 +39,27 @@
   <li>通过“jekyll build”编译网站，并将编译得到的 <code class="language-plaintext highlighter-rouge">_site</code> 目录部署到 nginx上，并检查内容是否正确。</li>
   <li>将网站源代码push到Github.com网站，并通过Github.io网站检查Jekyll代码是否被正确编译。
     <h2 id="四总结">四、总结</h2>
-    <p>（重点写过你在程中遇到的问题，你是如何解决这个问题的，你对这个问题的理解；以及本次实验的心得体会）
-```</p>
+    <blockquote>
+      <p>遇到的问题：</p>
+      <blockquote>
+        <p>在刚开始完成“Step by Step Tutorial”的内容时，不了解文件间的结构，导致多次失败；<br />
+将网站源代码push到Github.com网站时，使用ssh方式尝试了多次，但最后都会报错，即使已经多次进行纠错，也仍然不成功，这一步花费了我大量的时间。</p>
+      </blockquote>
+    </blockquote>
   </li>
 </ol>
+
+<blockquote>
+  <p>解决问题：</p>
+  <blockquote>
+    <p>刚开始时主要通过在网上查询，这也帮我解决了一些问题，但有时在网上并不能查到所有故障，因此，还向已经完成作业的同学进行请教，最后才解决了所有问题。</p>
+  </blockquote>
+</blockquote>
+
+<blockquote>
+  <p>心得体会：</p>
+  <blockquote>
+    <p>web开发最麻烦的不是编写代码的语法，与之相比，更麻烦的是各文件的部署与文件的配置！只要有一步做错，就无法成功，且更多时候甚至找不到错误的地方，改无可改，只能无能狂怒。</p>
+  </blockquote>
+</blockquote>
 :ET
